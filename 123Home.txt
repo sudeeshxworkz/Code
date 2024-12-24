@@ -1,0 +1,22 @@
+Banking Application----------
+firstName
+lastName
+age
+phoneNumber
+adhaarNo
+pan
+currentAddress
+currentAddressSameAsPermanent
+
+accountType
+fatherName
+motherName
+branch
+gender
+
+
+
+class FaceBook{
+
+boolean ref = userSignUp("","",)
+}
